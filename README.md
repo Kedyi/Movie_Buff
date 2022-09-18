@@ -1,5 +1,5 @@
 # Movie_buff: A movie recommendation system
-   ### The purpose of this movie recommendation system is to predict audience’s interest and recommend new movies to them accordingly.
+   ### The purpose of this movie recommendation system is to predict audience’s interest and recommend them new movies accordingly.
  
  ## "Movie_Buff" is based on Content Based Filtering. 
  
