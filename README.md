@@ -29,8 +29,6 @@ Go to the project directory
 
 bash
   cd Movie_Buff
-
-### Install dependencies from requirements.txt
 ## Start the server
 
 bash
