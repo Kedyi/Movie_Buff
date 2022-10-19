@@ -35,5 +35,5 @@ bash
   Flask --app app  run
 
 ## Future Scope
-- Improving UI 
+- Improving UI of recommendation page
 - Review section 
