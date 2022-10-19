@@ -37,3 +37,4 @@ bash
 ## Future Scope
 - Improving UI for recommendation page
 - Review section 
+- Make contact page funtional
