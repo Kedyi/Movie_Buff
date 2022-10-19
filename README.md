@@ -17,6 +17,25 @@
 ## Tech Stack
 ![image](https://user-images.githubusercontent.com/93571457/185930583-e92c061d-3bf5-45d1-b083-da144d9a139f.png)
 
+## Run Locally
+
+Clone the project
+
+bash
+  git clone https://github.com/Kedyi/Movie_Buff.git
+
+
+Go to the project directory
+
+bash
+  cd Movie_Buff
+
+### Install dependencies from requirements.txt
+## Start the server
+
+bash
+  Flask --app app  run
+
 ## Future Scope
 - Improving UI 
 - Review section 
